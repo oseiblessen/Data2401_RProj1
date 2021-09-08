@@ -79,7 +79,8 @@ ggplot(data = circle_data, mapping = aes(x = x, y = y)) +
 ```
 
 ```{r}
-
+circle_data %>%
+  summarize(r = cor(x, y))
 
 ```
 
