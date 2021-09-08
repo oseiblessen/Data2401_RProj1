@@ -1,7 +1,10 @@
+install.packages("datasauRus")
+install.packages("tidyverse")
+
 ---
 title: "R Project 1 - Hello R"
-author: "Your Name Goes Here"
-date: "Due Fed 3rd"
+author: "Benjamin Osei-Blessen"
+date: "Due sept 8th"
 output: html_document
 ---
 
